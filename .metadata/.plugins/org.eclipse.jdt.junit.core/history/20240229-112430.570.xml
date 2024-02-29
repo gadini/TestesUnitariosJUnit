@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculadoraTeste" project="JUnit" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="TestesUnitarios.CalculadoraTeste" time="0.001">
+    <testcase name="testeLancarResultadoCalculadora" classname="TestesUnitarios.CalculadoraTeste" time="0.001"/>
+    <testcase name="testeSomarPeso100com200kg" classname="TestesUnitarios.CalculadoraTeste" time="0.0"/>
+    <testcase name="testeSubtrairPeso50de100kg" classname="TestesUnitarios.CalculadoraTeste" time="0.0"/>
+  </testsuite>
+</testrun>

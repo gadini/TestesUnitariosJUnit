@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ControleEmbarqueTeste" project="JUnit" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="TestesUnitarios.ControleEmbarqueTeste" time="0.0">
+    <testcase name="testeEmbarcarPessoa15Kg" classname="TestesUnitarios.ControleEmbarqueTeste" time="0.0"/>
+    <testcase name="testeEmbarcarPessoa100Kg" classname="TestesUnitarios.ControleEmbarqueTeste" time="0.0"/>
+    <testcase name="testeEmbarcar15Mais30DepoisSair15" classname="TestesUnitarios.ControleEmbarqueTeste" time="0.0"/>
+  </testsuite>
+</testrun>
